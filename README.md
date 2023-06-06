@@ -1,5 +1,5 @@
 Projeto DB1 - README
-Infelizmente, certas coisas não saíram como planejado neste projeto. Enfrentamos diversos problemas que afetaram o funcionamento correto do sistema. Pedimos desculpas pelos inconvenientes causados, e gostaríamos de fornecer algumas orientações para executar o projeto em sua máquina.
+Infelizmente, certas coisas não saíram como planejado neste projeto.enfreitei diversos problemas que afetaram o funcionamento correto do sistema. quero desculpas pelos inconvenientes causados, e gostaríamos de fornecer algumas orientações para executar o projeto em sua máquina.
 
 Executando o Projeto
 Para iniciar o projeto no terminal, você pode usar o comando docker-compose up. No entanto, lamentavelmente, os arquivos Dockerfile do backend e frontend não funcionaram corretamente. Portanto, ao clicar na porta do Docker, os servidores não serão abertos.
